@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <title>SBAC-PAD 2020</title>
+  <meta charset="utf-8">
+  <meta name="viewport"
+	content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  
+  <meta name="Author" content="Miguel Areias"></meta>
+  <meta name="Description"
+	content="32<sup>nd<sup/> International Symposium on Computer Architecture and High Performance Computing,
+    <p>September 8-11, 2020</p>
+    <p>Faculdade de Ciências, Universidade do Porto, Porto, Portugal</p>">
+  <meta name="Keywords"
+	content="SBAC-PAD2020, SBAC-PAD 2020, SBAC-PAD, computer architecture, high performance computing, 
+		 Applications">
+    
+  <!-- Bootstrap core CSS -->
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Custom fonts for this template -->
+  <link href="https://fonts.googleapis.com/css?family=Catamaran:100,200,300,400,500,600,700,800,900" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i" rel="stylesheet">
+
+  
+  <!-- Custom styles for this template -->
+  <!--   <link href="css/one-page-wonder.min.css" rel="stylesheet"> -->
+  <link href="css/one-page-wonder.css" rel="stylesheet"> 
+
+</head>
+
+<body>
+
+  <!-- Navigation -->
+  <nav class="navbar navbar-expand-lg navbar-light bg-light shadow navbar-custom fixed-top">
+    <div class="container">
+<!--
+      <a class="navbar-brand item-124 default current active" href="http://www2.sbc.org.br/sbac/" ><img src="images/sbac.jpg" alt="SBAC-PAD 2020" class="logo-sbac" /></a>
+-->
+      <a class="navbar-brand" href="http://www2.sbc.org.br/sbac/"><img src="img/sbac.jpg" alt="SBAC-PAD 2020" class="logo-sbac"></a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto">
+	  <li class="nav-item">
+	    <a class="nav-link" href="https://easychair.org/cfp/HLPP2020">CFP</a>
+	  </li>
+	  <li class="nav-item">
+	    <a class="nav-link" href="#topics">Topics</a>
+	  </li>	  
+	  <li class="nav-item">
+	    <a class="nav-link" href="#importantDates">Important dates</a>
+	  </li>
+	  <li class="nav-item">
+	    <a class="nav-link" href="#submission">Submission</a>
+	  </li>
+	  <li class="nav-item">
+	    <a class="nav-link" href="#accepted">Accepted papers</a>
+	  </li>
+	  <li class="nav-item">
+	    <a class="nav-link" href="#registration">Registration</a>
+          </li>	  
+	  <li class="nav-item">
+	    <a class="nav-link" href="#program">Program </a>
+	  </li>
+	  <li class="nav-item">
+	    <a class="nav-link" href="#venue"> Venue </a>
+	  </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <header class="masthead text-center text-white">
+    <div class="masthead-content">
+      <div class="container">
+        <h1 class="masthead-heading mb-0">SBAC-PAD 2020 <br></h1>
+        <h4 class="masthead-subsubheading mb-0">32<sup>nd</sup>
+        International Symposium on Computer Architecture and High
+        Performance Computing<br><br>
+	  Porto, Portugal, September 8-11, 2020</h4>
+      </div>
+    </div>
+  </header>
+
+
+
+  <section class="py-5">
+    <div class="container">
+      <h2>Aims and Scope</h2>
+      <hr>
+      <p>SBAC&shy;-PAD is an international symposium, started in 1987,
+	which has continuously presented an overview of new
+	developments, applications, and trends in parallel and
+	distributed computing technologies. SBAC&shy;-PAD is open for
+	faculty members, researchers, specialists and graduate
+	students around the world.</p> 
+
+      <p>The 2020 symposium will be held at
+  the <a href="http://www.dcc.fc.up.pt">Department of Computer
+  Science</a>, <a href="http://www.fc.up.pt">Faculty of Sciences</a>
+  of <a href="http://www.up.pt">University of Porto</a>, in
+  Portugal. Porto is a historic and varied city, from the warren of
+  narrow streets that make up the ancient Ribeira district through to
+  the grand plaza of the Trindade district. The region is famed for
+  the production of Port, which is still stored and matured in the
+  vast cellars that stretch along the banks of the Douro River. It was
+  selected as the best European destination three years in a row
+  (2017, 2018, 2019). It is a very lively city, second largest in
+  Portugal, hosting the second largest university.</p>
+
+   </div>
+  </section>
+
+  <section class="py-5">
+    <div class="container">
+      <h2 id="topics">Topics</h2>
+      <hr>
+	<div>HLPP 2020 invites papers on all topics in high-level parallel 
+	  programming, its tools and applications including, but not limited to, 
+	  the following aspects:
+	</div>
+	
+	<div>
+	  <ul>
+	    <li>High-level programming and performance models (BSP, CGM, LogP, MPM, etc.) and tools</li>
+	    
+	    <li>Declarative parallel programming methodologies</li>
+	    
+	    <li>Algorithmic skeletons and constructive methods</li>
+	    <li>Declarative parallel programming languages and
+	      libraries: semantics and implementation</li>
+	    <li>Verification of declarative parallel and distributed
+	      programs</li>
+	    <li>Software synthesis, automatic code generation for
+	      parallel programming</li>
+	    <li>Model-driven software engineering with parallel
+	      programs</li>
+	    <li>High-level programming models for
+	      heterogeneous/hierarchical platforms</li>
+	    <li>High-level parallel methods for large structured and
+	      semi-structured datasets</li>
+	    <li>Applications of parallel systems using high-level
+	      languages and tools</li>	    
+	    <li>Formal models of timing and real-time verification for
+	      parallel systems </li>
+	  </ul>
+	</div>      
+    </div>
+  </section>
+
+
+  <section class="py-5">
+    <div class="container">
+      <h2><a id="importantDates">Important Dates</a></h2>
+      <hr>
+      <ul>
+	<li>Submission deadline: 6th, April (anywhere on earth)</li>
+	<li>Author notification: 4th, June</li>
+	<li>Camera-ready for draft proceedings: 1st, July</li>
+	<li>Early registration deadline: 10th, June </li>
+	<li>Symposium: 9th-10th, July (Thursday/Friday)</li>
+	<li>IJPP (HLPP special issue) submission deadline: 1st, October </li>
+	<li>IJPP (HLPP special issue) camera-ready for journal
+	  publication: 01st, December</li>
+      </ul>	  
+    </div>
+  </section>
+
+
+
+  <section class="py-5">
+    <div class="container">
+      <h2><a id="org">Organization </a></h2>
+      <hr>
+      <h3><a id="localTeam">Local Organization (Program Chairs)</a></h3>
+      
+      <ul>
+	<li> Inês Dutra </li>
+	<li> Miguel Areias </li>
+	<li> Ricardo Rocha</li>
+      </ul>
+
+      <h3><a id="pc">Program Committee </a></h3>
+      
+      <ul>
+	<li>TBA </li>
+      </ul>
+    </div>
+  </section>
+  
+  <section class="py-5">
+    <div class="container">
+      <h2><a id="submission">Paper Submission</a></h2>
+      <hr>
+      <div>
+	<p> Papers submitted to HLPP 2020 must describe original
+	  research results and must not have been published or
+	  simultaneously submitted anywhere else.</p>
+	
+	<p> Manuscripts must be prepared with the Springer
+	  IJSS <a href="http://www.springer.com/cda/content/document/cda_downloaddocument/LaTeX.zip?SGWID=0-0-45-468198-0"
+		  rel="nofollow">latex macro package</a>&nbsp;using the
+	  single column option
+	  (\documentclass[smallextended]{svjour3}) and submitted via
+	  the <a href="https://www.easychair.org/conferences/?conf=hlpp2020"
+		 target="_blank" rel="nofollow">EasyChair Conference
+	    Management System</a> as one pdf file. The strict
+	  page limit for initial submission and camera-ready version
+	  is 20 pages in the aforementioned format.</p>
+	
+	<p> Each paper will receive a minimum of three reviews by
+	  members of the international technical program committee.
+	  Papers will be selected based on their originality,
+	  relevance, technical clarity and quality of presentation.
+	  At least one author of each accepted paper must register
+	  for the HLPP 2020 symposium and present the paper.</p>
+	
+	<p> After the symposium you have ample time to revise the
+	  paper incorporating potential comments and remarks of your
+	  colleagues. We expect the the HLPP 2020 special issue of
+	  the International Journal of Parallel Programming (IJPP)
+	  to appear online-first by the end of the year and the
+	  printed edition in mid-2021.</p>
+      </div>
+      
+    </div>
+  </section>
+
+  <section class="py-5">
+    <div class="container">
+      <h2> <a id="accepted">Accepted Papers</a> </h2>
+      <hr>
+      <ul>
+	<li>TBA </li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="py-5" >
+    <div class="container" >
+      <h2> <a id="program">Symposium Program</a> </h2>
+      <hr>
+      <div class="table-responsive"> 
+	<table class="table">
+	  <thead>
+	    <tr>
+	      <th></th> <th> 9th </th> <th> 10th </th>
+	    </tr>
+	  </thead>
+	  <tbody>
+	    <tr>
+	      <td>08:30-09:00</td> <td> Registration/Opening</td> <td> Registration</td>
+	    </tr>
+	    <tr class="active">
+	      <td class="section">09:00-10:30</td> <td class="section"> Session 1 </td>
+	      <td class="section"> Session 5 </td>
+	    </tr>
+	    <tr>
+	      <td>10:30-11:00</td> <td> Coffee Break </td> <td>Coffee Break</td>
+	    </tr>    
+	    <tr>
+	      <td class="section">11:00-12:30</td> <td class="section"> Session 2 </td>
+	      <td class="section"> Session 6 </td>
+	    </tr>
+	    <tr>
+	      <td> 12:30-14:00 </td> <td> Lunch </td><td> Lunch </td>
+	    </tr>
+	    <tr>
+	      <td class="section">14:00-15:30</td> <td class="section"> Session 3 </td>
+	      <td class="section"> Session 7 </td>
+	    </tr>
+	    <tr>
+	      <td>15:30-16:00</td> <td> Coffee Break </td> <td> Coffee Break </td>
+	    </tr>
+	    <tr>
+	      <td class="section">16:00-17:30 </td> <td class="section"> Session 4 </td>
+	      <td>Closing </td>
+	    </tr>
+	    <tr>
+	      <td>20:00</td> <td> Social Event </td> <td></td>
+	    </tr>
+	  </tbody>
+	</table>	
+      </div>
+    </div>
+  </section>
+  
+  <section class="py-5">
+    <div class="container">
+      <h2><a id="proceedings"></a>Proceedings</h2>
+      <hr>      
+      <div>Accepted papers will be distributed as informal draft proceedings 
+	during the symposium. Accepted papers will be published by 
+	<a href="http://www.springer.com/" target="_blank" rel="nofollow">Springer</a> 
+	in a special issue of the 
+	<a href="http://www.springer.com/computer/theoretical+computer+science/journal/10766" target="_blank" rel="nofollow">
+	  International Journal of Parallel Programming</a>
+	(IJPP).
+    </div>
+  </section>
+  
+  
+  
+  <section class="py-5">
+    <div class="container">
+      <h2><a id="registration">Registration</a></h2>
+      <hr>
+      <ul>
+	<li>TBA </li>
+      </ul>	     
+    </div>
+  </section>
+  
+  
+  <section class="py-5">
+    <div class="container">
+      
+      <h2><a id="venue">Venue</a></h2>
+      <hr>
+      <div>
+	<p>
+	  HLPP 2020 will be hosted by
+	  the <a href="https://www.dcc.fc.up.pt">Dept. of Computer
+	    Science</a> (GPS coords 41.152545, -8.640758
+	  see <a href="https://goo.gl/maps/RzBBXEifZqgYVXiA9"> Google
+	    maps</a>) of the <a href="http://www.fc.up.pt">Faculty
+	    of Sciences of the University of Porto (FCUP)</a>.
+	</p>
+	<br>	    
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3004.244965019584!2d-8.642265291585877!3d41.15100576438081!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd2465748665b511%3A0x652241b7e04eb60a!2sDepartamento%20de%20Ci%C3%AAncia%20de%20Computadores%20FCUP!5e0!3m2!1spt-PT!2spt!4v1574522668389!5m2!1spt-PT!2spt" width="400" height="200" frameborder="0" style="border:0;" allowfullscreen="">
+	</iframe>
+	<br> <br>	      
+	<p>
+	  Participants may reserve rooms in several of the
+	  nearby <a href="https://goo.gl/maps/2WCnFGa5uCHqhR1s6">
+	    Hotels</a>. As the symposium will be held in the tourist
+	  season, the organizers recommend a timely reservation of
+	  rooms.
+	</p>      
+    </div>
+  </section>
+  
+
+
+  <section class="py-5">
+    <div class="container">
+      <h2>Steering Committee</h2>
+      <hr>
+      <ul>
+	<li>Clemens Grelck (Universiteit van Amsterdam, Netherlands)</li>
+	<li>Gaetan Hains (Huawei Technologies Paris, France)</li>
+	<li>Kiminori Matsuzaki (Kochi University of Technology, Japan)</li>
+	<li>Frederic Loulergue (Northern Arizona University, USA)</li>
+	<li>Quentin Miller (Somerville College Oxford, United Kingdom)</li>
+	<li>Alexander Tiskin (University of Warwick, United Kingdom)</li>	  
+      </ul>	       
+      
+    </div>
+  </section> 
+
+
+<section class="py-5">
+    <div class="container">
+      
+      <h2>Sponsors</h2>
+      <hr>
+      <a style="display: table-cell; vertical-align: middle; padding-left: 0px; padding-top:2cm;" href="http://www.fc.up.pt/"><img src="img/fc_up_logo.png" alt="FCUP" title="FCUP" width="200"></a>
+      <a style="display: table-cell; vertical-align: middle; padding-left: 0px; padding-top:2cm;" href="http://www.dcc.fc.up.pt/"><img src="img/dcc_logo.png" alt="DCC" title="DCC" width="200"></a>
+      <a style="display: table-cell; vertical-align: middle; padding-left: 0px; padding-top:2cm;" href="https://www.inesctec.pt/en/centres/cracs"><img src="img/cracs-inesctec.jpeg" alt="CRACS" title="CRACS" width="200"></a>       
+      
+    </div>
+  </section>
+    
+  <!-- Footer -->
+  <footer class="py-5 bg-black">
+    <div class="container">
+      <p class="m-0 text-center text-white big"> Further informations: <a href="mailto:hlpp2020@dcc.fc.up.pt">HLPP 2020</a> </p>
+      <br>
+      <p class="m-0 text-center text-white small">Copyright &copy; HLPP 2020</p>
+
+    </div>
+    <!-- /.container -->
+  </footer>
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+</body>
+
+</html>
