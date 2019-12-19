@@ -37,8 +37,8 @@ h6 {
 }
 
 .navbar-custom {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
   background-color: rgba(0, 0, 0, 0.7);
 }
 
@@ -59,8 +59,8 @@ h6 {
 header.masthead {
   position: relative;
   overflow: hidden;
-  padding-top: calc(7rem + 72px);
-  padding-bottom: 7rem;
+  padding-top: calc(5rem + 60px);
+  padding-bottom: 5rem;
   background-image: url("../img/01_hp_img_principal_noite_0.jpg");
   background-repeat: no-repeat;
   background-position: center center;
